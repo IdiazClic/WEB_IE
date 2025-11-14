@@ -1,0 +1,7 @@
+# Archivo .gitignore
+node_modules/
+.env
+frontend/node_modules/
+frontend/.env
+# Claves secretas del backend
+backend/firebase-key.json
